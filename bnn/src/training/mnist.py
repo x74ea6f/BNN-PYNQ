@@ -89,7 +89,8 @@ if __name__ == "__main__":
     print("epsilon = "+str(learning_parameters.epsilon))
     
     # Training parameters
-    num_epochs = 1000
+    num_epochs = 1
+    ##TMP num_epochs = 1000
     print("num_epochs = "+str(num_epochs))
     
     # Dropout parameters
